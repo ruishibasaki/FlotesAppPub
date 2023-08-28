@@ -1,0 +1,59 @@
+model class1 4
+client_type 20.0 2.0 
+client_type 30.0 2.0 
+client_type 40.0 2.0 
+client_type 50.0 2.0
+
+model class2 4
+client_type 10.0 2.0
+client_type 20.0 2.0
+client_type 30.0 2.0
+client_type 40.0 2.0
+
+model class3 4
+client_type 10.0 2.0
+client_type 40.0 2.0
+client_type 50.0 2.0
+client_type 20.0 2.0
+
+model class4 4
+client_type 50.0 2.0
+client_type 40.0 2.0
+client_type 30.0 2.0
+client_type 10.0 2.0
+
+model class5 4
+client_type 5.0 2.0
+client_type 10.0 2.0
+client_type 20.0 2.0
+client_type 30.0 2.0
+
+model class6 4
+client_type 50.0 2.0 
+client_type 60.0 2.0 
+client_type 80.0 2.0 
+client_type 70.0 2.0
+
+model class7 4
+client_type 50.0 2.0 
+client_type 80.0 2.0 
+client_type 60.0 2.0 
+client_type 70.0 2.0
+
+model class8 4
+client_type 60.0 2.0 
+client_type 70.0 2.0 
+client_type 80.0 2.0 
+client_type 85.0 2.0
+
+model class9 4
+client_type 50.0 2.0 
+client_type 70.0 2.0 
+client_type 80.0 2.0 
+client_type 60.0 2.0
+
+model class10 4
+client_type 65.0 2.0 
+client_type 55.0 2.0 
+client_type 85.0 2.0 
+client_type 70.0 2.0

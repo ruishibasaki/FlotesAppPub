@@ -1,0 +1,18 @@
+model class2 4
+client_type 79.0 2.0
+client_type 51.0 2.0
+client_type 29.0 2.0
+client_type 11.0 2.0
+
+model class3 4
+client_type 80.0 3.0
+client_type 50.0 3.0
+client_type 30.0 3.0
+client_type 10.0 3.0
+
+model class4 4
+client_type 80.0 2.0
+client_type 50.0 2.0
+client_type 30.0 3.0
+client_type 10.0 3.0
+

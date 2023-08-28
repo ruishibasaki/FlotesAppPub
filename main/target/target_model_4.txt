@@ -1,0 +1,5 @@
+model class100 4
+client_type 80.0 2.0
+client_type 50.0 2.0
+client_type 30.0 2.0
+client_type 10.0 2.0
