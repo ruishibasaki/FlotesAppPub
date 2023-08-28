@@ -1,0 +1,1 @@
+./inputs/noreal_CF_10_4_1.txt {'avgDiffNorm': 0.003, 'maxDiffNorm': 0.0408, 'avgDiffNom': 0.4031, 'maxDiffNom': 5.38, 'avgNomR': 0.0029, 'maxNomR': 0.0382} jsd: 0.0000 jsd_real: 0.0404 iters: 2 cams: 6 avgtimeit: 1243.93
